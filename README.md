@@ -18,7 +18,7 @@ Install dependencies and Run using:
 ```
 pip install -r requirements.txt
 
-```bash
+```
 python main.py
 
 
