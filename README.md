@@ -20,8 +20,9 @@ pip install -r requirements.txt
 
 ## Usage
 
-All functionality is accessible via main.py. To run the project, use the following command:
-```
+All functionality is accessible via `main.py`. To run the project, use the following command:
+
+```bash
 python main.py
 
 
