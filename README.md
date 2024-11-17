@@ -15,7 +15,14 @@ Before running the scripts, ensure you have Python 3.x installed along with the 
 - `gTTS`
 
 Install dependencies using:
-```bash
+```
 pip install -r requirements.txt
+
+## Usage
+
+All functionality is accessible via main.py. To run the project, use the following command:
+```
+python main.py
+
 
 
