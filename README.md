@@ -17,8 +17,8 @@ Before running the scripts, ensure you have Python 3.x installed along with the 
 Install dependencies and Run using:
 ```
 pip install -r requirements.txt
-
-``
+-----------------------------------------------------------------------------
+```
 python main.py
 
 
