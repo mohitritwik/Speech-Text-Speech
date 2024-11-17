@@ -1,5 +1,4 @@
-pyaudio==0.2.13
-speechrecognition==3.8.1
-gtts==2.3.2
-openai-whisper==20230314
-
+pyaudio==0.2.14
+speechrecognition==3.10.4
+gtts==2.5.3
+openai-whisper==20240930
