@@ -26,4 +26,4 @@ Before running the scripts, make sure you have Python 3.x installed and the foll
    pip install -r requirements.txt
 2.Run the main script:
    ```
-   python main.py
+    python main.py
